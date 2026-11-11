@@ -33,3 +33,6 @@ If the site still looks stale, hard-refresh or open an incognito window. New CSS
 cache-busting URLs are included to reduce browser cache problems.
 
 No web build tool is needed; this site is plain static HTML/CSS/JavaScript.
+
+This edition removes small editorial/disclaimer notes beneath metrics and within
+project sections. Numeric labels and relevant project details remain in place.
